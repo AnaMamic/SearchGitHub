@@ -1,0 +1,29 @@
+PODS:
+  - Gloss (1.1.1)
+  - RxCocoa (3.0.1):
+    - RxSwift (~> 3.0)
+  - RxDataSources (1.0.0):
+    - RxCocoa (~> 3.0)
+    - RxSwift (~> 3.0)
+  - RxGesture (0.2.0):
+    - RxCocoa (~> 3.0.0)
+    - RxSwift (~> 3.0.0)
+  - RxSwift (3.0.1)
+
+DEPENDENCIES:
+  - Gloss (= 1.1.1)
+  - RxCocoa (= 3.0.1)
+  - RxDataSources (= 1.0.0)
+  - RxGesture (= 0.2.0)
+  - RxSwift (= 3.0.1)
+
+SPEC CHECKSUMS:
+  Gloss: 4a892694cba7387efa4102a51f86110651366b18
+  RxCocoa: 15a52fc590dcc700cb4a690a633b5c5184ce3a78
+  RxDataSources: 824693e84d00781d0a5e5cedc1ff95ce9250aacd
+  RxGesture: 17b250d3c6732b35fab53d09800d35ceef717847
+  RxSwift: af5680055c4ad04480189c52d28385b1029493a6
+
+PODFILE CHECKSUM: f8cb31231d0a2ee7a5a4dfdaee8ddb003b9c68ef
+
+COCOAPODS: 1.1.1
